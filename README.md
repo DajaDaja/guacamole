@@ -2,7 +2,7 @@
 But also an example repository for introductory __Git__ training.
 
 ### Ingredients:
-- avocado
+- avocado (important)
 - onion
 - salt & pepper
 
