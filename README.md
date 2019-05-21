@@ -8,7 +8,11 @@ But also an example repository for introductory __Git__ training.
 - salt & pepper
 
 ### Instructions:
-Put into a bowl and mix.
+- chop onion and tomato
+- cut open avocado and remove stone
+- scoop out flesh
+- put into a bowl and mix with tomato, onion
+- season to taste with salt & pepper
 
 <!-- HTML comment -->
 
