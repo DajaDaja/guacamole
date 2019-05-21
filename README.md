@@ -1,6 +1,14 @@
 # A Recipe for Guacamole
 But also an example repository for introductory __Git__ training.
 
+Ingredients::
+- avocado
+- onion
+- salt & pepper
+
+Instructions:
+Put into a bowl and mix.
+
 <!-- HTML comment -->
 
 - "-" adds a bullet point
