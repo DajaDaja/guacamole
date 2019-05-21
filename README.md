@@ -1,6 +1,8 @@
 # A Recipe for Guacamole
 But also an example repository for introductory __Git__ training.
 
+<!-- HTML comment -->
+
 - "-" adds a bullet point
   - " -" creates sub-bullets
     - we can go even sub-er!
