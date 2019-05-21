@@ -4,6 +4,7 @@ But also an example repository for introductory __Git__ training.
 ### Ingredients:
 - avocado (important)
 - onion
+- tomato
 - salt & pepper
 
 ### Instructions:
