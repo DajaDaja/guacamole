@@ -1,6 +1,7 @@
 # A Recipe for Guacamole
 But also an example repository for introductory __Git__ training.
 
+
 ### Ingredients:
 - avocado (important)
 - onion
@@ -9,6 +10,7 @@ But also an example repository for introductory __Git__ training.
 
 ### Instructions:
 Put into a bowl and mix.
+Make sure to enjoy.
 
 <!-- HTML comment -->
 
