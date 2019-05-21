@@ -4,6 +4,10 @@ But also an example repository for introductory __Git__ training.
 - "-" adds a bullet point
   - " -" creates sub-bullets
     - we can go even sub-er!
+      - how sub can we go?
+        - is this working?
+          - guess there is no limit
+            - hurray
 - [and links](https://bio-it.embl.de) can be added too!
 - _italics_ and ~~strikethrough~~ is also possible
 
