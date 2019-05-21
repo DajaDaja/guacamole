@@ -1,4 +1,4 @@
-# A recipe for hummus - yummy
+# A recipe for hummus with changes from B - yummy
 
 Also a very nice recipe!
 
